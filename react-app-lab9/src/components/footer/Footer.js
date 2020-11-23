@@ -12,7 +12,7 @@ export default class Footer extends Component{
             <footer className="footer">
                 <div className="content has-text-centered">
                     <p>
-                        <strong>Bulma</strong> by <a href="https://github.com/lutiku">Lutiku Ndongala</a>. 
+                        <strong>Bulma</strong> by <a href="https://github.com/lutiku">Lutiku Ndongala</a>.
                     </p>
                 </div>
             </footer>
